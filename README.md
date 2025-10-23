@@ -14,7 +14,7 @@ Uma coleção de pequenos projetos, componentes e efeitos criados com HTML, CSS 
 <div align="start">
 
 1. [Quadro de desenho](./1-QuadroRabisco/index.html)
-2. [Carrosel com miniaturas](./2-CarrosselMiniaturas/index.html)
+2. [Carrossel com miniaturas](./2-CarrosselMiniaturas/index.html)
 
 </div>
 
